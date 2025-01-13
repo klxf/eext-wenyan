@@ -1,2 +1,3 @@
-# eext-wenyan
-允许在嘉立创EDA使用文言文编程语言编写脚本
+![wywywy](https://github.com/user-attachments/assets/5adaaeb0-48f3-450a-b04a-45ba0df3e014)
+# 吾有一术
+
