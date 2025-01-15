@@ -1,4 +1,8 @@
 ![wywywy](https://github.com/user-attachments/assets/5adaaeb0-48f3-450a-b04a-45ba0df3e014)
+<p align="center">
+  <a href="https://github.com/klxf/eext-wenyan/releases/tag/v0.0.2">【体验预览版】</a>
+</p>
+
 # 吾有一术
 
 ## 简介
